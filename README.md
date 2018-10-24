@@ -56,7 +56,7 @@ Sample configuration for the DGB daemon with a pruned blockchain:
 
 For standard configurations, using P2Pool should be as simple as:
 
-To run 1st network:
+To run:
     python run_p2pool.py --net digibyte
 
 To make your node accessible from the internet, open the following ports on your router (both the worker port and peer-2-peer port please!):
