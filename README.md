@@ -59,14 +59,8 @@ For standard configurations, using P2Pool should be as simple as:
 To run 1st network:
     python run_p2pool.py --net digibyte
 
-To run 2nd network:
-    python run_p2pool.py --net digibyte2
-
 To make your node accessible from the internet, open the following ports on your router (both the worker port and peer-2-peer port please!):
-For 1st network:
     Worker Port = 5027; Peer-2-Peer Port = 5026
-For 2nd network:
-    Worker Port = 5030; Peer-2-Peer Port = 5031
 
 Run for additional options:
 
